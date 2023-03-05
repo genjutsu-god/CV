@@ -1,0 +1,72 @@
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>Ankit's Personal site</title>
+
+         
+    </head>
+    <body>
+      <img src ="https://s.ndtvimg.com/images/entities/300/mitchell-starc-1416.png" alt= "Ankit Sharma Profile Photo">
+      <h1>Ankit Sharma </h1>  
+      <p><em>Student at IIT BHU ,upcoming intern at sprinklr. Aspiring to be a top notch coder. </em></p>
+      <p> I am in dept of civil engineering.<a href="https://www.cricbuzz.com/"> I love to play tennis.</a></p>
+      <hr>
+      <h3>Education</h3>
+       <ul>
+        <li>Balak Vidalaya</li> 
+     <li>GM college</li> 
+      <li>IIT BHU</li>
+      </ul>
+      <hr>
+      <h3>Work Experience</h3>
+      <table >
+        <thead>
+<tr> 
+  <th> Dates</th>
+  <th>Work</th>
+</tr> 
+        </thead>
+        <tbody>
+
+        </tbody>
+        <tfoot>
+
+        </tfoot>
+        <tr>
+          <td>2021-2022</td>
+          <td>Publicity Coordinator FMC Weekend </td>
+        </tr>
+        <tr>
+          <td>
+            2022-present
+          </td>
+          <td>
+            Training and Placement Representative
+          </td>
+        </tr>
+      </table>
+      <hr>
+      <h3>Skills</h3>
+      <table cellspacing = "10">
+        <tr>
+          <td>Web Development</td>
+          <td>⭐⭐⭐⭐⭐</td>
+          <td>Cricket</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            Communication
+          </td>
+          <td>
+            ⭐⭐⭐⭐⭐
+          </td>
+          <td>Tennis</td>
+          <td>⭐⭐</td>
+        </tr>
+        
+      </table>
+      <hr>
+      <a href="hobbies.html">My Hobbies</a>
+    </body>
+</html> 
